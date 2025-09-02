@@ -1,0 +1,12 @@
+﻿.vscode/
+keys/
+*.env
+*.pem
+*.key
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# Large datasets (optional)
+# Cerberus_Training_Set.zip
+# Cerberus_Training_Set/
